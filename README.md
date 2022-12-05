@@ -3,12 +3,15 @@ VVVVGAMMA www.visualprogramming.net and NODEVEMBER www.nodevember.io
 A yearly event for everything procedural  
 #nodevember #nodevemer2022 #madewithvvvv
 
-![](/Title.jpg)
+![](/Title.jpg)  
+Notebook which was used to build up the [VVVVGAMMA](https://www.visualprogramming.net) patches  
+
+ThinkPad X1 Extreme Gen2 version2019  
+NVIDIA GeForce GTX 1650 Mobile  
+Intel i7-9750H / 32 GB RAM
 
 **00 SPACE JUNKYARD**
-![](/00_SpaceJunkyard/00_SpaceJunkyard.jpg)
-
-
+![](/00_SpaceJunkyard/00_SpaceJunkyard.jpg)  
 00_SpaceJunkyard.vl was saved with [VVVVGAMMA](https://www.visualprogramming.net)  STABLE 2021.4.11  
 
 Dependencies/VL.Nugets:  
