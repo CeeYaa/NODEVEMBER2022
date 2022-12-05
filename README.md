@@ -1,2 +1,4 @@
 # NODEVEMBER2022
-VVVVGAMMA www.visualprogramming.net and Nodevember www.nodevember.io which is the yearly event for everything procedural 
+VVVVGAMMA www.visualprogramming.net and NODEVEMBER www.nodevember.io  
+A yearly event for everything procedural  
+#nodevember #nodevemer2022 #madewithvvvv
