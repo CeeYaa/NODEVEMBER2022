@@ -111,7 +111,7 @@ VL.Stride/2021.4.12
 
 
 **10 FORGOTTEN ROBOTS**
-![](/10_ForgottenRobots/10_ForgottenRobots)  
+![](/10_ForgottenRobots/10_ForgottenRobots.jpg)  
 10_ForgottenRobots.vl was saved with [VVVVGAMMA](https://www.visualprogramming.net)  STABLE 2021.4.12  
 
 Dependencies/VL.Nugets:  
@@ -122,7 +122,7 @@ VL.Stride/2021.4.12
 [VL.Video.MediaFoundation/1.0.12](https://www.nuget.org/packages/VL.Video.MediaFoundation)  
 
 **11 IMPOSSIBLE PATHWAYS**
-![](/11_ImpossiblePathway/11_ImpossiblePathway)  
+![](/11_ImpossiblePathway/11_ImpossiblePathway.jpg)  
 11_ImpossiblePathway.vl was saved with [VVVVGAMMA](https://www.visualprogramming.net)  STABLE 2021.4.12  
 
 Dependencies/VL.Nugets:  
@@ -131,7 +131,7 @@ VL.Stride/2021.4.12
 [VL.ScreenRecorder/0.1.4-alpha](https://www.nuget.org/packages/VL.ScreenRecorder)  
 
 **12 OMINOUS SKIES**
-![](/12_OminousSkies/12_OminousSkies)  
+![](/12_OminousSkies/12_OminousSkies.jpg)  
 12_OminousSkies.vl was saved with [VVVVGAMMA](https://www.visualprogramming.net)  STABLE 2021.4.12  
 
 Dependencies/VL.Nugets:  
