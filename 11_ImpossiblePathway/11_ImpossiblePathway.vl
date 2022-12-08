@@ -4238,6 +4238,5 @@
   </Patch>
   <NugetDependency Id="DKRUzv6ltA4QNaXWDTB79a" Location="VL.Skia" Version="2021.4.12" />
   <NugetDependency Id="B0ueR0hsrJAMLI0aGEYpEP" Location="VL.Stride" Version="2021.4.12" />
-  <NugetDependency Id="MXYnWacYNJlMKliVjm20DD" Location="VL.Video.MediaFoundation" Version="1.0.12" />
   <NugetDependency Id="BUxMipjim2UNUQ8PZEBKXE" Location="VL.ScreenRecorder" Version="0.1.4-alpha" />
 </Document>

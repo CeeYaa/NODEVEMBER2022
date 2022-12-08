@@ -934,6 +934,5 @@
     </Node>
   </Patch>
   <NugetDependency Id="DHW2GIfuKdUMQatPdoTklV" Location="VL.Skia" Version="2021.4.12" />
-  <NugetDependency Id="NgWBWCx1iCjOL5nzU2a70X" Location="VL.Stride" Version="2021.4.12" />
   <NugetDependency Id="DvHVCNffzddMZ6noYAqZ1D" Location="VL.ScreenRecorder" Version="0.1.4-alpha" />
 </Document>
