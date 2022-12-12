@@ -38,6 +38,7 @@ VL.Stride/2021.4.12
 [VL.ColorBlender/2.0.0](https://www.nuget.org/packages/VL.ColorBlender)  
 [VL.Boids-GPU/0.1.3](https://www.nuget.org/packages/VL.Boids-GPU)  
 [VL.ScreenRecorder/0.1.4-alpha](https://www.nuget.org/packages/VL.ScreenRecorder)  
+02_OceanicWonders.vl is based on [VL.Boids-GPU](https://github.com/torinos-yt/VL.Boids-GPU) by torinos
 
 **03 FUTURISTIC GARDEN**
 ![](/03_FuturisticGarden/03_FuturisticGarden.jpg)  
@@ -46,6 +47,7 @@ VL.Stride/2021.4.12
 Dependencies/VL.Nugets:   
 VL.Stride/2021.4.12  
 [VL.ScreenRecorder/0.1.4-alpha](https://www.nuget.org/packages/VL.ScreenRecorder)  
+03_FuturisticGarden.vl is inspired by a YouTube-Tutorial [Generating a Recursive BROCCOLI](https://youtu.be/36E6oKBao_w) from v v v v T v
 
 **04 EXTRATERRESTRIAL RELIC**
 ![](/04_ExtraterrestrialRelic/04_ExtraterrestrialRelic.jpg)  
@@ -105,6 +107,7 @@ Dependencies/VL.Nugets:
 VL.Skia/2021.4.12  
 VL.Stride/2021.4.12  
 [VL.OpenCV/2.5.1](https://www.nuget.org/packages/VL.OpenCV/2.5.1)  
+[VL.IO.NDI/0.4.1-alpha](https://www.nuget.org/packages/VL.IO.NDI/0.4.1-alpha)  
 [VL.Kairos/0.6.0](https://www.nuget.org/packages/VL.Kairos)  
 [VL.ScreenRecorder/0.1.4-alpha](https://www.nuget.org/packages/VL.ScreenRecorder)  
 [VL.Audio/1.0.15](https://www.nuget.org/packages/VL.Audio)  
@@ -129,6 +132,7 @@ Dependencies/VL.Nugets:
 VL.Skia/2021.4.12  
 VL.Stride/2021.4.12  
 [VL.ScreenRecorder/0.1.4-alpha](https://www.nuget.org/packages/VL.ScreenRecorder)  
+11_ImpossiblePathway.vl is inspired by a YouTube-Tutorial [Maze Generator with p5.js](https://youtu.be/HyK_Q5rrcr4) from Daniel Shiffman's thecodingtrain
 
 **12 OMINOUS SKIES**
 ![](/12_OminousSkies/12_OminousSkies.jpg)  
@@ -138,6 +142,7 @@ Dependencies/VL.Nugets:
 VL.Skia/2021.4.12  
 VL.Stride/2021.4.12  
 [VL.ScreenRecorder/0.1.4-alpha](https://www.nuget.org/packages/VL.ScreenRecorder)  
+12_OminousSkies.vl is based on [VL.GenerativeGestaltung](https://github.com/phlegma/VL.GenerativeGestaltung) by phlegma
 
 **13 DIGITAL RUINS**
 ![](/13_DigitalRuins/13_DigitalRuins.jpg)  
@@ -149,6 +154,7 @@ VL.ImGui/2022.5.0-401
 VL.ImGui.Skia/2022.5.0-401  
 [VL.ScreenRecorder/0.1.4-alpha](https://www.nuget.org/packages/VL.ScreenRecorder)  
 [VL.Audio/1.0.15](https://www.nuget.org/packages/VL.Audio)  
+13_DigitalRuins.vl is based on TextureControlTriangle_ShaderFX from [LeCloneur’s Bazaar](https://discourse.vvvv.org/t/lecloneurs-bazaar/20657) by cloneproduction
 
 **14 ASTROID VILLAGE**
 ![](/14_AstroidVillage/14_AstroidVillage.jpg)  
@@ -157,5 +163,9 @@ VL.ImGui.Skia/2022.5.0-401
 Dependencies/VL.Nugets:  
 VL.Stride/2021.4.12  
 [VL.Fuse/0.2.3](https://www.nuget.org/packages/VL.Fuse) => [THEFUSELAB](https://www.thefuselab.io)  
-[VL.ScreenRecorder/0.1.4-alpha](https://www.nuget.org/packages/VL.ScreenRecorder)  
+[VL.ScreenRecorder/0.1.4-alpha](https://www.nuget.org/packages/VL.ScreenRecorder)
+
+## Licencing
+Licensed under the Apache License, Version 2.0 (the "License"). You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0  
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. 
 
